@@ -1,35 +1,39 @@
 const INITIAL_STATE = {
     sections: [
         {
-            title: "hats",
-            imageUrl: "https://i.ibb.co/cvpntL1/hats.png",
+            title: "Thali",
+            imageUrl: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/nutraingredients-asia.com/news/research/thali-treatment-traditional-indian-dietary-practice-may-lower-chronic-disease-risk/8444774-2-eng-GB/Thali-treatment-Traditional-Indian-dietary-practice-may-lower-chronic-disease-risk.jpg",
             id: 1,
             linkUrl: "shop/hats"
         },
         {
-            title: "jackets",
-            imageUrl: "https://i.ibb.co/px2tCc3/jackets.png",
+            title: "Snacks",
+            imageUrl: "https://i0.wp.com/vegecravings.com/wp-content/uploads/2018/07/Veggie-Burger-Recipe-Step-By-Step-Instructions.jpg?fit=3072%2C3024&quality=65&strip=all&ssl=1",
             id: 2,
             linkUrl: "shop/jackets"
         },
         {
-            title: "sneakers",
-            imageUrl: "https://i.ibb.co/0jqHpnp/sneakers.png",
+            title: "Sabjis",
+            imageUrl: "https://www.cookwithmanali.com/wp-content/uploads/2019/05/Paneer-Butter-Masala-500x500.jpg",
             id: 3,
             linkUrl: "shop/sneakers"
         },
         {
-            title: "womens",
-            imageUrl: "https://i.ibb.co/GCCdy8t/womens.png",
-            size: "large",
+            title: "Breads",
+            imageUrl: "https://i2.wp.com/www.vegrecipesofindia.com/wp-content/uploads/2013/07/naan-1.jpg",
             id: 4,
             linkUrl: "shop/womens"
         },
         {
-            title: "mens",
-            imageUrl: "https://i.ibb.co/R70vBrQ/men.png",
-            size: "large",
+            title: "Dal Rice",
+            imageUrl: "https://www.cookwithmanali.com/wp-content/uploads/2019/07/Dal-Fry-Recipe.jpg",
             id: 5,
+            linkUrl: "shop/mens"
+        },
+        {
+            title: "Beverages and Ice cream",
+            imageUrl: "https://img1.cgtrader.com/items/967980/fdd49d68f0/soft-drinks-cans-3d-model-animated-ma-mb.jpg",
+            id: 6,
             linkUrl: "shop/mens"
         }
     ]
